@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - Differentiating the use of printf and puts commands
- *Return: The printf prints the output without creating a new line.
+ *main - Differentiating the usage of printf and puts commands.
+
+ *Return: The printf command prints the output without a new line.
  */
 int main(void)
 {
