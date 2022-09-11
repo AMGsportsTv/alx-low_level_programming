@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- *main - This prints a series of ouptuts for the variable, positive, zero or negative
+ *main - This prints variables either positive or negative
  *
  *Return: Always success
  */
