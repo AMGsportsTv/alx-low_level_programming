@@ -2,9 +2,8 @@
 
 /**
 *main - tests function that prints if integer is negative or positive
-*
-*Description - positive_or_negative 
- *Return: 0
+*Description - positive_or_negative
+*Return: 0
 */
 
 int main(void)
